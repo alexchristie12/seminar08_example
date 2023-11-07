@@ -1,7 +1,7 @@
 """CP104 Week 08 Seminar - Product Class"""
 
 
-class Product:
+class Products:
     def __init__(self, name="", price=0.00):
         self.name = name
         self.price = price
